@@ -1,0 +1,7 @@
+pdfplumber
+pypdf
+google-genai
+google-auth
+pydantic
+python-dotenv
+gspread
