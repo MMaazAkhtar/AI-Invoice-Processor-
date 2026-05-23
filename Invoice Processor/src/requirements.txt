@@ -1,6 +1,7 @@
 pdfplumber
 pypdf
-google-genai
+ollama
+gemma4:e2b
 google-auth
 pydantic
 python-dotenv
